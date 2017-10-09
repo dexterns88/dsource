@@ -13,6 +13,8 @@
   ],
   "main": "generators/index.js",
   "keywords": [
+    "Drupal 7 theme",
+    "Drupal 8 theme",
     "Drupal theme",
     "Gulp theme ",
     "yeoman-generator"
@@ -29,6 +31,7 @@
   "dependencies": {
     "yeoman-generator": "^2.0.1",
     "chalk": "^2.1.0",
+    "underscore.string": "^3.3.4",
     "yosay": "^2.0.0"
   },
   "jest": {

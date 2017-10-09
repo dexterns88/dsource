@@ -1,0 +1,28 @@
+; new theme
+core = 7.x
+version = VERSION
+
+name = <%= props.projectName %>
+description = <%= props.projectName %> theme
+
+stylesheets[all][] = dist/css/screen.css
+
+scripts[] = dist/js/scripts.js
+
+
+regions[top] = Top
+regions[header] = Header
+regions[navigation] = Navigation
+
+regions[help] = Help
+regions[highlighted] = Highlighted
+regions[featured] = Featured
+
+regions[content] = Content
+regions[sidebar_first] = Sidebar first
+regions[sidebar_second] = Sidebar second
+regions[post_content] = Post-Content
+
+regions[pre_footer] = Pre-footer
+regions[footer] = Footer
+regions[post_footer] = Post-footer
