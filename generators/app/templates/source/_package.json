@@ -26,12 +26,10 @@
     "gulp-stats": "0.0.4",
     "gulp-uglify": "^3.0.0",
     "normalize-scss": "^7.0.0",
-    "npm-font-open-sans": "1.0.3",
-    "postcss-assets": "^4.2.0",
+    "postcss-assets": "^5.0.0",
     "postcss-font-awesome": "^0.3.4",
     "postcss-inline-svg": "^3.0.0",
-    "postcss-position": "^0.5.0",
-    "postcss-svg": "^1.0.5",
+    "postcss-svg": "^2.1.0",
     "postcss-size": "^2.0.0"<%
 
   if (props.includeSingularity){%>,
