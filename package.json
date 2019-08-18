@@ -22,14 +22,13 @@
   "devDependencies": {
     "yeoman-test": "^1.6.0",
     "yeoman-assert": "^3.0.0",
-    "nsp": "^2.6.3",
+    "nsp": "^2.8.1",
     "eslint": "^4.1.0",
     "eslint-config-xo-space": "^0.16.0",
     "jest": "^21.0.0",
     "jest-cli": "^21.0.0"
   },
   "dependencies": {
-    "yeoman-generator": "^2.0.1",
     "chalk": "^2.1.0",
     "underscore.string": "^3.3.4",
     "yosay": "^2.0.0"
